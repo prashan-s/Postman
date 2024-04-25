@@ -5,7 +5,7 @@ This repository contains scripts aimed at automating tasks for Postman, designed
 ## Table of Contents
 
 - [Scripts](#scripts)
-  - [postman-visualizer-encrypted-response.js](#postman-visualizer-encrypted-responsejs)
+  - [postman-visualizer-encrypted-response.js](https://github.com/prashan-s/Postman/blob/main/postman-visualizer-encrypted-response.js)
 - [License](#license)
 
 ## Scripts
